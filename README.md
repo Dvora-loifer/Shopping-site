@@ -24,8 +24,11 @@ It includes features such as product listing, shopping cart, and user-friendly i
 To run the project locally:
 
 git clone https://github.com/Dvora-loifer/Shopping-site.git
+
 cd Shopping-site
+
 npm install
+
 npm start
 
 The app will be available at http://localhost:3000.
